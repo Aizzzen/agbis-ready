@@ -1,3 +1,6 @@
+Ссылка на приложение: https://agbis.netlify.app/
+
+
 npm start - и всё)
 
 
