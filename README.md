@@ -1,4 +1,4 @@
-Тестовое задание на позицию junior frontend developer - простенький личный кабинет
+Тестовое задание на позицию junior frontend developer - личный кабинет
 
 
 Ссылка на приложение: https://agbis.netlify.app/
