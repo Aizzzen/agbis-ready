@@ -1,19 +1,25 @@
-Тестовое задание на позицию junior frontend developer - личный кабинет
+# Тестовое задание на позицию junior frontend developer в компанию АГБИС
 
 
 Ссылка на приложение: https://agbis.netlify.app/
 
 
-npm start - и всё)
+```
+npm install
+```
 
 
-Использовал: 
+```
+npm start
+```
+
+## Технологии: 
 
 - React
 
 - React-router-dom
 
-- Antd / antd-icons
+- Antd
 
 - Axios
 
