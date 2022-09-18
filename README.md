@@ -1,7 +1,5 @@
-# Тестовое задание на позицию junior frontend developer в компанию АГБИС
-
-
-Ссылка на приложение: https://agbis.netlify.app/
+# Тестовое задание на позицию Frontend developer в компанию АГБИС, город Калининград
+## Реализация доступна по ссылке: https://agbis.netlify.app/
 
 
 ```
